@@ -1,0 +1,103 @@
+#wrapper1 {
+	background-color: #000;
+	height: 500px;
+	width: 100%;
+}
+
+#wrapper2 {
+	height: 300px;
+	width: 100%;
+}
+
+#one {
+	background-color: #784;
+	border: 4px solid #fff;
+}
+
+#two {
+	background-color: #a67;
+	border: 4px solid #fff;
+}
+
+#three {
+	background-color: #BADA55;
+	border: 4px solid #fff;
+}
+
+#four {
+	background-color: #845;
+	border: 4px solid #fff;
+}
+
+
+
+.playing {
+	width: 150px;
+	height: 300px;
+	position: relative;
+	display: inline;
+	float: left;
+	margin-right: 30px;
+	left: 22.5%;
+	top: 75px;
+}
+
+/*.playing {
+	position: relative;
+	display: inline;
+	float: left;
+	margin-right: 30px;
+	left: 12.5%;
+	top: 50px;
+}*/
+
+#main {
+	width: 300px;
+	height: 300px;
+	background-color: #369;
+	position: relative;
+	float: left;
+	left: 15%;
+	
+}
+
+#enemy {
+	width: 300px;
+	height: 300px;
+	background-color: #BADA55;
+	position: relative;
+	float: right;
+	right: 15%;
+	
+}
+
+#attackbutton {
+	width: 300px;
+	height: 50px;
+	background-color: #BADA55;
+	position: absolute;
+	bottom: 20px;
+}
+
+/*#healthptsM {
+	width: 100px;
+	height: 20px;
+	background-color: #328;
+	position: absolute;
+	bottom: 0px;
+}
+
+#healthptsE {
+	width: 100px;
+	height: 20px;
+	background-color: #328;
+	position: absolute;
+	bottom: 0px;
+}
+
+h1 {
+	color: #fff;
+	font-size: 20px;
+	position: absolute;
+	bottom: 0;
+}*/

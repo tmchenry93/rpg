@@ -1,0 +1,31 @@
+#playerone {
+	border-color: #BADA55;
+	width: 75px;
+	height: 75px;
+	background-color: #a67;
+	border: 8px;
+}
+
+#playertwo {
+	border-color: #369;
+	width: 75px;
+	height: 75px;
+	background-color: #a67;
+	border: 8px;
+}
+
+#playerthree {
+	border-color: #289;
+	width: 75px;
+	height: 75px;
+	background-color: #a67;
+	border: 8px;
+}
+
+#playerfour {
+	border-color: #7d9;
+	width: 75px;
+	height: 75px;
+	background-color: #a67;
+	border: 8px;
+}
